@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Famil Orujov 👋
+# Famil Orujov 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2764F7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;AI+Engineer;Agentic+AI+Systems+Builder;LLM+%26+RAG+Specialist)](https://git.io/typing-svg)
 
 </div>
 
 ---
-
-### 🚀 About Me
 
 I am a passionate **Data Scientist / AI Engineer** dedicated to pushing the boundaries of traditional ML/DL and the emerging field of **Agentic AI**. 
 
