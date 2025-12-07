@@ -1,10 +1,4 @@
-<div align="center">
-
-# Famil Orujov 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2764F7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;AI+Engineer;Agentic+AI+Systems+Builder;LLM+%26+RAG+Specialist)](https://git.io/typing-svg)
-
-</div>
+# 🔭 Famil Orujov
 
 ---
 
@@ -36,18 +30,6 @@ I specialize in building intelligent systems using **LLMs**, **RAG pipelines**, 
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
   <img src="https://img.shields.io/badge/Chroma-FF6F00?style=for-the-badge&logo=chroma&logoColor=white" alt="Chroma"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Famil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FamilOrujov&show_icons=true&theme=tokyonight)](https://github.com/FamilOrujov)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FamilOrujov&layout=compact&theme=tokyonight)](https://github.com/FamilOrujov)
-
-</div>
 
 ---
 
