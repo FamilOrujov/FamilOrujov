@@ -1,7 +1,5 @@
 # 🔭 Famil Orujov
 
----
-
 I am a passionate **Data Scientist / AI Engineer** dedicated to pushing the boundaries of traditional ML/DL and the emerging field of **Agentic AI**. 
 
 I specialize in building intelligent systems using **LLMs**, **RAG pipelines**, and **autonomous agents**. My journey is driven by an unstoppable enthusiasm to learn, optimize, and deploy AI solutions that solve real-world problems.
