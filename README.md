@@ -18,42 +18,70 @@ I specialize in building intelligent systems using **LLMs**, **RAG pipelines**, 
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🧰 Languages and Tools
 
 <div align="center">
 
-#### **Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://cdnp.1001freedownloads.com/vector/thumb/138128/FastAPI_logo.png" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://mlflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/>
+  </a>
+  
+  <br/> <br/>
 
-#### **Machine Learning & Deep Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  <a href="https://platform.openai.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/LangChain_logo_small.png" alt="langchain" width="40" height="40"/>
+  </a>
+  <a href="https://www.crewai.com/" target="_blank">
+    <img src="https://github.com/crewAIInc/crewAI/raw/main/docs/crewai_logo.png" alt="crewai" width="40" height="40"/>
+  </a>
+  <a href="https://microsoft.github.io/autogen/" target="_blank">
+    <img src="https://microsoft.github.io/autogen/img/autogen_transparent.png" alt="autogen" width="40" height="40"/>
+  </a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langgraph" width="40" height="40"/>
+  </a>
 
-#### **Data Science & Analysis**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  <br/> <br/>
 
-#### **LLMs & Agentic AI**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-<!-- Note: Custom badges for newer tools where official icons might not exist on shields.io yet -->
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-
-#### **MLOps, Backend & Databases**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-#### **Vector Databases**
-![Qdrant](https://img.shields.io/badge/Qdrant-D22D46?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00758F?style=for-the-badge)
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://qdrant.tech/" target="_blank">
+    <img src="https://qdrant.tech/images/logo_only.svg" alt="qdrant" width="40" height="40"/>
+  </a>
+  <a href="https://www.trychroma.com/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/891664/227555363-23136209-66dc-4ce4-8902-6e27cb172b8d.png" alt="chroma" width="40" height="40"/>
+  </a>
+  <a href="https://faiss.ai/" target="_blank">
+    <img src="https://faiss.ai/img/faiss-logo.svg" alt="faiss" width="40" height="40"/>
+  </a>
 
 </div>
 
