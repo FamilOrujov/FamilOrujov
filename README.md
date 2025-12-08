@@ -29,12 +29,3 @@ I specialize in building intelligent systems using **LLMs**, **RAG pipelines**, 
   <img src="https://img.shields.io/badge/Chroma-FF6F00?style=for-the-badge&logo=chroma&logoColor=white" alt="Chroma"/>
 </p>
 
-
-
-<div align="center">
-
-<a href="mailto:familoruj@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-</div>
