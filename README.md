@@ -29,9 +29,7 @@ I specialize in building intelligent systems using **LLMs**, **RAG pipelines**, 
   <img src="https://img.shields.io/badge/Chroma-FF6F00?style=for-the-badge&logo=chroma&logoColor=white" alt="Chroma"/>
 </p>
 
----
 
-### 📫 Connect with Me
 
 <div align="center">
 
