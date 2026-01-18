@@ -2,11 +2,7 @@
 
 I design and build end-to-end AI systems that bridge the gap between traditional Deep Learning (PyTorch/TensorFlow) and autonomous Agentic Workflows. My focus is moving beyond simple prompt engineering to architecting scalable, deterministic AI environments that solve complex, real-world problems. I believe the most powerful AI systems combine the reasoning of LLMs with the precision of specialized ML/DL models. I actively implement and optimize this intersection, ensuring high-performance retrieval and agentic decision-making.
 
-I specialize in building intelligent systems using **LLMs**, **RAG pipelines**, and **autonomous agents**. My journey is driven by an unstoppable enthusiasm to learn, optimize, and deploy AI solutions that solve real-world problems.
-
-- 🔭 I’m currently working on **Agentic RAG systems & LLM Optimization**
-- 🌱 I’m currently learning **Advanced Multi-Agent Orchestration (LangGraph, AutoGen)**
-- 💡 I love exploring **Generative AI, Vector Search, and MLOps Best Practices**
+I'm currently focused on the engineering of reliable, production-grade agentic systems. My current work centers on hardening multi-agent architectures and agentic RAG systems. 
 
 ---
 
