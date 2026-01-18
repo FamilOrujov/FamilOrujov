@@ -1,6 +1,6 @@
 # 🔭 Famil Orujov
 
-I am a passionate **Data Scientist / AI Engineer** dedicated to pushing the boundaries of traditional ML/DL and the emerging field of **Agentic AI**. 
+I design and build end-to-end AI systems that bridge the gap between traditional Deep Learning (PyTorch/TensorFlow) and autonomous Agentic Workflows. My focus is moving beyond simple prompt engineering to architecting scalable, deterministic AI environments that solve complex, real-world problems. I believe the most powerful AI systems combine the reasoning of LLMs with the precision of specialized ML/DL models. I actively implement and optimize this intersection, ensuring high-performance retrieval and agentic decision-making.
 
 I specialize in building intelligent systems using **LLMs**, **RAG pipelines**, and **autonomous agents**. My journey is driven by an unstoppable enthusiasm to learn, optimize, and deploy AI solutions that solve real-world problems.
 
