@@ -1,6 +1,6 @@
 # 🔭 Famil Orujov
 
-I design and build end-to-end AI systems that bridge the gap between traditional Deep Learning (PyTorch/TensorFlow) and autonomous Agentic Workflows. My focus is moving beyond simple prompt engineering to architecting scalable, deterministic AI environments that solve complex, real-world problems. I believe the most powerful AI systems combine the reasoning of LLMs with the precision of specialized ML/DL models. I actively implement and optimize this intersection, ensuring high-performance retrieval and agentic decision-making.
+I design and build end-to-end AI systems that bridge the gap between traditional ML/DL and autonomous Agentic Workflows. My focus is moving beyond simple prompt engineering to architecting scalable, deterministic AI environments that solve complex, real-world problems. I believe the most powerful AI systems combine the reasoning of LLMs with the precision of specialized ML/DL models. I actively implement and optimize this intersection, ensuring high-performance retrieval and agentic decision-making.
 
 I view engineering as a constant R&D process. I actively research and analyze the latest AI papers and emerging technologies, not just to read them, but to stress-test their utility. My workflow involves breaking down complex research concepts and new tooling ecosystems, then integrating the viable parts directly into my projects. If a new technique improves performance or reliability, I build it into my architecture.
 
