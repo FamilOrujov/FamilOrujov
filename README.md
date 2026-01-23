@@ -35,6 +35,7 @@ Currently I'm focused on the engineering of reliable, production-grade agentic s
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-121212?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
   <img src="https://img.shields.io/badge/CrewAI-CB3837?style=for-the-badge&logo=openai&logoColor=white" alt="CrewAI"/>
   <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
@@ -53,4 +54,5 @@ Currently I'm focused on the engineering of reliable, production-grade agentic s
 **Workflow Automation**
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Langflow-FF3003?style=for-the-badge&logo=langchain&logoColor=white" alt="Langflow"/>
 </p>
