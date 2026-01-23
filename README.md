@@ -4,7 +4,7 @@ I design and build end-to-end AI systems that bridge the gap between traditional
 
 I view engineering as a constant R&D process. I actively research and analyze the latest AI papers and emerging technologies, not just to read them, but to stress-test their utility. My workflow involves breaking down complex research concepts and new tooling ecosystems, then integrating the viable parts directly into my projects. If a new technique improves performance or reliability, I build it into my architecture.
 
-I'm currently focused on the engineering of reliable, production-grade agentic systems. My current work centers on hardening multi-agent architectures and agentic RAG systems. 
+Currently I'm focused on the engineering of reliable, production-grade agentic systems. My current work centers on hardening multi-agent architectures and agentic RAG systems. 
 
 ---
 
